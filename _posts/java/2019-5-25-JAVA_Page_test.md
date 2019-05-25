@@ -4,7 +4,7 @@ title:  "JAVA"
 date:   2019-05-25
 tag:
 - java
-categories: java
+categories: JAVA
 comments: true
 ---
 ### JAVA Page
