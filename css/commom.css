@@ -134,7 +134,7 @@ ul {
   color: #eaeaea;
 }
 
-.nav-wrap li:nth-of-type(5)::after {
+.nav-wrap li:nth-of-type(7)::after {
   content: '';
   display: block;
   width: 32px;
