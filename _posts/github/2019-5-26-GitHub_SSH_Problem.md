@@ -11,7 +11,7 @@ comments: true
 
 > 주로 Ubuntu에서 GitHub을 add, commit push도 Ubuntu에서 하다가 Windows 10에서 하는 도중 문제가 발생했다.
 
-![git에러](C:\Users\locks\Desktop\git에러.png)
+![git에러](https://github.com/Ryanden/Ryanden.github.io/blob/master/_posts/github/images/SSH_Error.png?raw=true)
 
 간단하게 말하면 repository에 권한이 없다는 건데... 이 문제를 해결 하기 위해 참고한 사이트는 [여기](<https://jdblischak.github.io/2014-09-18-chicago/novice/git/05-sshkeys.html>)다.
 
@@ -19,5 +19,5 @@ comments: true
 
 ### 마치며...
  오늘도
- ![지식이늘었다](C:\Users\locks\Desktop\지식이늘었다.gif)
+ ![지식이늘었다](https://github.com/Ryanden/Ryanden.github.io/blob/master/_posts/github/images/Knowledge_Up.gif?raw=true)
 
