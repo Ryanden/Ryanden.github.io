@@ -18,5 +18,5 @@ comments: true
 먼저 ssh키를 새로 만들고 내 github 셋팅에 추가만 해주면 된다.
 
 ### 마치며...
-
+ 오늘도..
  ![지식이늘었다](C:\Users\locks\Desktop\지식이늘었다.gif)
